@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636616410147",
+    "project_id": "gavitexpress",
+    "storage_bucket": "gavitexpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636616410147:android:73e6243204850174611d96",
+        "android_client_info": {
+          "package_name": "com.example.gavitexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636616410147-29tsoh0aluf505o3ssoic8kkeago0i4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUujwC4_AHl27PaijvQshB782F5PB9n4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636616410147-29tsoh0aluf505o3ssoic8kkeago0i4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
